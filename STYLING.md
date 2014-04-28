@@ -22,19 +22,19 @@
 
 文件名统一格式：
 
-    Liv.And.Maddie.SxxExx.original.srt
+    Liv.And.Maddie.SxxExx-original.srt
 
 ### 分片目录结构
 
 目录结构统一使用如下格式：
 
-    SxxExx.original
-    SxxExx.checked
+    SxxExx-original
+    SxxExx-checked
 
 例如：
 
-    S01E17.original
-    S01E12.checked
+    S01E17-original
+    S01E12-checked
 
 SxxExx 部分表示第几季第几集，集数以 Wikipedia 为准。
 
@@ -52,5 +52,5 @@ SxxExx 部分表示第几季第几集，集数以 Wikipedia 为准。
 
 文件名统一格式：
 
-    Liv.And.Maddie.SxxExx.checked.srt
+    Liv.And.Maddie.SxxExx-checked.srt
 
