@@ -1,0 +1,9 @@
+# OS X junk
+.DS_Store
+
+# Backup
+*~
+*$
+*.swp
+*.bak
+
