@@ -1,0 +1,204 @@
+111
+00:05:19,779 --> 00:05:21,797
+C+
+C-plus?
+ 
+112
+00:05:21,832 --> 00:05:24,450
+还是体育
+In gym?
+ 
+113
+00:05:26,753 --> 00:05:27,837
+爸
+Dad.
+ 
+114
+00:05:27,888 --> 00:05:32,641
+哈  亲爱的戴个哨子的父亲大人
+Ha! Loving father man who wears the whistle.
+ 
+115
+00:05:32,676 --> 00:05:37,763
+如果你不能让我的平均分变得好看些  我就永远都致不了毕业辞了
+If I don't keep my perfect G.P.A., I will never be valedictorian.
+ 
+116
+00:05:37,797 --> 00:05:42,818
+而且我在机器人社里牛皮吹得老大
+And I have been talking a lot of smack in robotics club.
+ 
+117
+00:05:42,853 --> 00:05:45,654
+所以还造了个会吹牛大吹特吹的机器人
+So has the smack-talking robot I built.
+ 
+118
+00:05:45,689 --> 00:05:48,774
+抱歉了  儿子  但是我必须要给你打低分
+Sorry, son, but I had to mark you down
+ 
+119
+00:05:48,808 --> 00:05:52,478
+因为你没能在 35 秒内完成折返跑
+because you didn't finish your shuttle run in under 35 seconds.
+ 
+120
+00:05:52,496 --> 00:05:56,582
+35 秒  爸爸  那是不可能的
+35 seconds? Daddy, that's impossible.
+ 
+121
+00:05:56,616 --> 00:05:57,816
+噢  是吗
+Oh, yeah?
+ 
+122
+00:05:57,834 --> 00:05:59,752
+嘿  迪吉
+Hey, Diggie.
+ 
+123
+00:05:59,786 --> 00:06:01,454
+你跑一趟折返跑看看
+We're go for shuttle run.
+ 
+124
+00:06:02,756 --> 00:06:05,758
+现在开始计时
+Timer starts now.
+ 
+125
+00:06:05,792 --> 00:06:07,626
+如果你想要的话  可以让你重考
+If you want, I can give you a retest,
+ 
+126
+00:06:07,660 --> 00:06:09,495
+但你只能有一次机会
+but you're only going to get one shot at it.
+ 
+127
+00:06:09,513 --> 00:06:12,631
+你的意思是我唯一能保证毕业的方法
+You're telling me the only way I'm going to be valedictorian
+ 
+128
+00:06:12,665 --> 00:06:16,435
+就是像只蟑螂一样发疯的在体育馆里来回跑
+is if I scurry across the gym floor like a jock-roach.
+ 
+129
+00:06:16,470 --> 00:06:17,887
+我又不是定规则的人  孩子
+I don't make the rules, son.
+ 
+130
+00:06:17,938 --> 00:06:19,522
+我只是负责吹哨的
+I just blow the whistle.
+ 
+131
+00:06:19,556 --> 00:06:21,673
+同时  我还教你们生理课
+Also, I teach health class.
+ 
+132
+00:06:21,691 --> 00:06:23,859
+所以一旦你们对自己青春期的变化有什么疑问
+So if you have any questions about your changing body,
+ 
+133
+00:06:23,894 --> 00:06:25,844
+我的门随时为你们敞开
+my door is always open.
+ 
+134
+00:06:25,862 --> 00:06:29,698
+算了吧  还是把门关了得了
+Yeah, let's keep that door closed.
+ 
+135
+00:06:29,733 --> 00:06:31,450
+完成了
+Done!
+ 
+136
+00:06:31,485 --> 00:06:32,684
+折返跑跑得不错啊  迪吉
+Nice shuttle run, Diggie.
+ 
+137
+00:06:32,702 --> 00:06:35,654
+28.7 秒
+28.7 seconds.
+ 
+138
+00:06:35,688 --> 00:06:37,573
+我认为这是最好成绩了  孩子
+I don't think any less of you, son.
+ 
+139
+00:06:39,692 --> 00:06:41,710
+嘿
+Hey!
+ 
+140
+00:06:41,745 --> 00:06:43,695
+迪吉
+Diggie.
+ 
+141
+00:06:43,713 --> 00:06:45,748
+我最爱的校队运动员
+My favorite varsity athlete
+ 
+142
+00:06:45,799 --> 00:06:50,553
+也是唯一一个从不打击贬低我的家伙
+and the only one who has never purpled my nurples.
+ 
+143
+00:06:50,587 --> 00:06:51,703
+我需要你帮个忙
+I need a favor.
+ 
+144
+00:06:51,721 --> 00:06:54,473
+我必须在 35 秒内跑完折返跑
+I need to do the shuttle run in under 35 seconds.
+ 
+145
+00:06:54,508 --> 00:06:55,591
+哦  你想让我来训练你
+Oh, so you want me to train you?
+ 
+146
+00:06:55,642 --> 00:06:59,812
+- 我很乐意  - 其实  我想让你当枪手来替我跑
+- I'd be happy to. - Actually, I was thinking you'd do it for me.
+ 
+147
+00:06:59,846 --> 00:07:01,647
+我给你戴副眼镜
+I'd give you some glasses.
+ 
+148
+00:07:01,681 --> 00:07:02,815
+穿上古怪的筒形袜
+Some fancy tube socks.
+ 
+149
+00:07:02,849 --> 00:07:07,403
+乔伊  无意冒犯  但是没人会认为我就是你的
+Joey, no offense, but no one's going to believe that I'm you.
+ 
+150
+00:07:07,437 --> 00:07:09,555
+你猜怎么着  你说的很对
+You know what... you're right.
+ 
+151
+00:07:09,573 --> 00:07:11,607
+为何我天生就这么帅气啊
+Why did I have to be born so handsome?

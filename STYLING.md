@@ -38,7 +38,7 @@
 
 SxxExx 部分表示第几季第几集，集数以 Wikipedia 为准。
 
-*.original 包含未翻译的原版字幕分片，*.checked 包含翻译完成的字幕分片。
+.original 包含未翻译的原版字幕分片，.checked 包含翻译完成的字幕分片。
 
 各个分片文件名统一格式：
 
